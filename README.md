@@ -30,7 +30,7 @@ O script abrange os seguintes casos de teste:
 O Bodyscan possui as seguintes dependências:
 
 Python 3.6 ou superior
-requestsbiblioteca
+requests biblioteca
 
 beautifulsoup4library
 
