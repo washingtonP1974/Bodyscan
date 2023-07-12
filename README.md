@@ -40,7 +40,7 @@ pip install requests beautifulsoup4 dnspython
 # uso
 Para usar o script Bodycan, siga estas etapas:
 
-Salve o código em um arquivo chamado easyscan.py.
+Salve o código em um arquivo chamado bodyscan.py.
 Abra um terminal ou prompt de comando e navegue até o diretório que contém o script.
 Execute o script usando Python:
 
