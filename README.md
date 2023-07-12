@@ -32,9 +32,9 @@ O Bodyscan possui as seguintes dependências:
 Python 3.6 ou superior
 requestsbiblioteca
 
-beautifulsoup4biblioteca
+beautifulsoup4library
 
-dnspythonbiblioteca
+dnspythonlibrary
 
 Você pode instalar essas dependências usando pip:
 
