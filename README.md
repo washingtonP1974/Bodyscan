@@ -5,15 +5,25 @@ Bodyscan script Python que analisa a segurança de um determinado site inspecion
 O script abrange os seguintes casos de teste:
 
 1- Script do mesmo site
+
 2- registros SPF
+
 3- registros DMARC
+
 4- Página de administração pública
+
 5- Listagem de diretório
+
 6- Cabeçalhos de segurança ausentes
+
 7- Configurações de cookies inseguras
+
 8- Divulgação de informação
+
 9- Erros de configuração do Cross-Origin Resource Sharing (CORS)
+
 10- detecção de tipo de conteúdo
+
 11- Controle de cache
 
 # Dependências
